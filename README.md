@@ -1,1 +1,7 @@
-# ai-renpy-vscode-extension
+这是一款RenPy引擎游戏开发辅助工具：
+
+在文案后加上.d，按下shift+d，即可生成对话类型的代码。
+
+在文案后加上.a，按下shift+a，即可生成旁白类型的代码。
+
+
